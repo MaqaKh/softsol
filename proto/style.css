@@ -162,7 +162,8 @@ h6{
 }
 .header__logo-title{
 	color:#fff;
-	font-size:26px;
+	font-weight: bold;
+  font-size: 40px;
 	letter-spacing:-1px;
 	position:relative;
 	float:left;
